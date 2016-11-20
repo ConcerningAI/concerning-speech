@@ -1,0 +1,28 @@
+{
+  "name": "concerning-speech",
+  "version": "0.0.1",
+  "description": "Explore the problem of automatic speech recognition with open source tools and data sets.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConcerningAI/concerning-speech.git"
+  },
+  "keywords": [
+    "Speech",
+    "Recognition",
+    "AI",
+    "Machine",
+    "Learning"
+  ],
+  "author": "Brandon CS Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConcerningAI/concerning-speech/issues"
+  },
+  "homepage": "https://github.com/ConcerningAI/concerning-speech#readme"
+}
