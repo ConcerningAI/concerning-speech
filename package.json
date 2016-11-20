@@ -4,7 +4,11 @@
   "description": "Explore the problem of automatic speech recognition with open source tools and data sets.",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "av": "^0.4.9",
+    "browserify": "^13.1.1",
+    "flac.js": "^0.2.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
